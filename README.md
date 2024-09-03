@@ -9,3 +9,8 @@ After cloning the repo
 how to install
 
 `npm install`
+
+create a .env file in the root directory with the name
+Add your firebase API_KEY to make it work
+
+`VITE_API_KEY=YOUR_API_KEY`
